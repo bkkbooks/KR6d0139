@@ -1,0 +1,1478 @@
+canonical_identifier: bkk:krp/KR6d0139/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0139/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 摩訶止觀義例纂要
+  identifiers:
+    krp: KR6d0139
+    cbeta: X56n0921
+    cbeta_old_id: X56n0921
+    authorityid: CA0002290
+    json_key: X0921
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0921.xml
+    old_id: X56n0921
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0139_000-X.yaml, hash: 'sha256:c142aa1b65d811e9a8817150a5bddf3fbce31a82829f64c2eb17bfdf35e7c5d0'}
+  - {seq: 1, filename: KR6d0139_001-X.yaml, hash: 'sha256:fc02239934f63be6172e1cd6357deaf02af88babb1f526508beadf3c6be98a99'}
+  - {seq: 2, filename: KR6d0139_002-X.yaml, hash: 'sha256:038549720a5faba3ac8c571167631e3636d4088a8d1a2095a440d14fad90e833'}
+  - {seq: 3, filename: KR6d0139_003-X.yaml, hash: 'sha256:ca07bdef606cfa8357ac2b310a446f872819e44fc7618bea4a302e82d1060f36'}
+  - {seq: 4, filename: KR6d0139_004-X.yaml, hash: 'sha256:bee9559c747381471db211b5b6893755f03b887951bcf1eb19a90f5d96ee3472'}
+  - {seq: 5, filename: KR6d0139_005-X.yaml, hash: 'sha256:51b0fbd98b827e676c0fcd1f85a9a152a7a56d3eddf231fde177889b9b4f41ed'}
+  - {seq: 6, filename: KR6d0139_006-X.yaml, hash: 'sha256:d6b1e206f796ef1a746a1af7649511b0de1477076a945377d7ff82017a9f3da6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0139_000-X.markers.yaml, hash: 'sha256:98f0cdf52a4e0e52ae4b098e9fd2e0cfc616d823e278c575623ea1413a3639be'}
+  - {seq: 1, role: markers, filename: assets/KR6d0139_001-X.markers.yaml, hash: 'sha256:71ffcd6780e1a2cc7101f356b0cefc427fe540086bf21ae1105443253720f27d'}
+  - {seq: 2, role: markers, filename: assets/KR6d0139_002-X.markers.yaml, hash: 'sha256:c16755341574eeb14eef2f7f467377c1023ccee24132b10143e24260bf723cd9'}
+  - {seq: 3, role: markers, filename: assets/KR6d0139_003-X.markers.yaml, hash: 'sha256:5d7a89b6ae37400f42fcc4691559b922af089168b7614c83d5f61ee1b3fea0a6'}
+  - {seq: 4, role: markers, filename: assets/KR6d0139_004-X.markers.yaml, hash: 'sha256:fe7f4f02161d6ed3040aa209063d9df7a19291945be5e796fbd6f5b26a7f2799'}
+  - {seq: 5, role: markers, filename: assets/KR6d0139_005-X.markers.yaml, hash: 'sha256:f615eeb7486419636635e134fed9543c0ba6664aedde630f0d3174821400fea6'}
+  - {seq: 6, role: markers, filename: assets/KR6d0139_006-X.markers.yaml, hash: 'sha256:cb12e64545fd91fa3f00e0eaef8d0f4ea47a9b26449964cfcd24e494d28898aa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 23924
+  label: 止觀義例纂要卷第一并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-2
+    span:
+    - body
+    - 544
+    - 544
+  label: 初總題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-3
+    span:
+    - body
+    - 1765
+    - 1765
+  label: 次釋七例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-4
+    span:
+    - body
+    - 1774
+    - 1774
+  label: 初釋所傳部別例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-5
+    span:
+    - body
+    - 4207
+    - 4207
+  label: 第二所依正教例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-6
+    span:
+    - body
+    - 9765
+    - 9765
+  label: 第三依正消釋例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-7
+    span:
+    - body
+    - 9775
+    - 9775
+  label: 初牒名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-8
+    span:
+    - body
+    - 9828
+    - 9828
+  label: 次一者下隨科釋義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-9
+    span:
+    - body
+    - 9839
+    - 9839
+  label: 初詳究文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-10
+    span:
+    - body
+    - 9847
+    - 9847
+  label: 初詳究文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-11
+    span:
+    - body
+    - 9854
+    - 9854
+  label: 初明引證通局者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-12
+    span:
+    - body
+    - 10230
+    - 10230
+  label: 次明汎引流類者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-13
+    span:
+    - body
+    - 10590
+    - 10590
+  label: 三明借名申義者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-14
+    span:
+    - body
+    - 11085
+    - 11085
+  label: 四明借喻轉譬者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-15
+    span:
+    - body
+    - 11643
+    - 11643
+  label: 五明傍引辨異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-16
+    span:
+    - body
+    - 12148
+    - 12148
+  label: 六明開總出別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-17
+    span:
+    - body
+    - 12505
+    - 12505
+  label: 七明引用宗要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-18
+    span:
+    - body
+    - 12808
+    - 12808
+  label: 八明引用儒道者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-19
+    span:
+    - body
+    - 13366
+    - 13366
+  label: 九明借名略義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-20
+    span:
+    - body
+    - 13681
+    - 13681
+  label: 十明準例用義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-21
+    span:
+    - body
+    - 14454
+    - 14454
+  label: 次詳究文相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-22
+    span:
+    - body
+    - 14474
+    - 14474
+  label: 初明隨相開合
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-23
+    span:
+    - body
+    - 14989
+    - 14989
+  label: 次明結示處所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-24
+    span:
+    - body
+    - 18153
+    - 18153
+  label: 三明事理傍正
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-25
+    span:
+    - body
+    - 18776
+    - 18776
+  label: 四明文偏意圓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-26
+    span:
+    - body
+    - 19079
+    - 19079
+  label: 五明廣略有無
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-27
+    span:
+    - body
+    - 20226
+    - 20226
+  label: 六明文行不同
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-28
+    span:
+    - body
+    - 21271
+    - 21271
+  label: 七明待絕前後
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-29
+    span:
+    - body
+    - 21741
+    - 21741
+  label: 八明破會不同
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-30
+    span:
+    - body
+    - 21974
+    - 21974
+  label: 九明行解不同
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0139_X_001-mulu-31
+    span:
+    - body
+    - 22685
+    - 22685
+  label: 十明舉例從略
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 27657
+  label: 止觀義例纂要卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 次明消釋體勢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-2
+    span:
+    - body
+    - 29
+    - 29
+  label: 初明文體勢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-3
+    span:
+    - body
+    - 36
+    - 36
+  label: 初明法喻廣略
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-4
+    span:
+    - body
+    - 1570
+    - 1570
+  label: 次明法等有無
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-5
+    span:
+    - body
+    - 1714
+    - 1714
+  label: 三明開合自他
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-6
+    span:
+    - body
+    - 2559
+    - 2559
+  label: 四明注文云云者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-7
+    span:
+    - body
+    - 3008
+    - 3008
+  label: 五明破立存沒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-8
+    span:
+    - body
+    - 3360
+    - 3360
+  label: 六明長短不同者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-9
+    span:
+    - body
+    - 3722
+    - 3722
+  label: 七明法喻隱顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-10
+    span:
+    - body
+    - 4164
+    - 4164
+  label: 八明問答迷解
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-11
+    span:
+    - body
+    - 5421
+    - 5421
+  label: 九明舉例消文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-12
+    span:
+    - body
+    - 5701
+    - 5701
+  label: 十明以教定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-13
+    span:
+    - body
+    - 6048
+    - 6048
+  label: 次明義體勢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-14
+    span:
+    - body
+    - 6065
+    - 6065
+  label: 初明部體本意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-15
+    span:
+    - body
+    - 7025
+    - 7025
+  label: 次明觀教同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-16
+    span:
+    - body
+    - 7682
+    - 7682
+  label: 三明觀門準則
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-17
+    span:
+    - body
+    - 8316
+    - 8316
+  label: 四明會異考同
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-18
+    span:
+    - body
+    - 10534
+    - 10534
+  label: 五明以一例諸者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-19
+    span:
+    - body
+    - 12016
+    - 12016
+  label: 六明名義通局
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-20
+    span:
+    - body
+    - 14299
+    - 14299
+  label: 七明開拓句法者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-21
+    span:
+    - body
+    - 14381
+    - 14381
+  label: 八明束散前從
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-22
+    span:
+    - body
+    - 14490
+    - 14490
+  label: 九明行理交映
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-23
+    span:
+    - body
+    - 18206
+    - 18206
+  label: 十明教觀折攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-24
+    span:
+    - body
+    - 19248
+    - 19248
+  label: 第三結略例廣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0139_X_002-mulu-25
+    span:
+    - body
+    - 19309
+    - 19309
+  label: 第四大章總別例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0139_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 27114
+  label: 止觀義例纂要卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 27179
+  label: 止觀義例纂要卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-1
+    span:
+    - body
+    - 9372
+    - 9372
+  label: 第五心境釋疑例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-2
+    span:
+    - body
+    - 9381
+    - 9381
+  label: 初牒名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-3
+    span:
+    - body
+    - 9384
+    - 9384
+  label: 次略為下標數
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-4
+    span:
+    - body
+    - 9390
+    - 9390
+  label: 三問下解釋為二十番料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-5
+    span:
+    - body
+    - 9401
+    - 9401
+  label: 初料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-6
+    span:
+    - body
+    - 10054
+    - 10054
+  label: 次料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-7
+    span:
+    - body
+    - 10796
+    - 10796
+  label: 三料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-8
+    span:
+    - body
+    - 18272
+    - 18272
+  label: 四料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-9
+    span:
+    - body
+    - 19909
+    - 19909
+  label: 五料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-10
+    span:
+    - body
+    - 21566
+    - 21566
+  label: 六料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-11
+    span:
+    - body
+    - 22647
+    - 22647
+  label: 七料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-12
+    span:
+    - body
+    - 22892
+    - 22892
+  label: 八料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-13
+    span:
+    - body
+    - 23936
+    - 23936
+  label: 九料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0139_X_004-mulu-14
+    span:
+    - body
+    - 25477
+    - 25477
+  label: 十料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 23877
+  label: 止觀義例纂要卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-1
+    span:
+    - body
+    - 3947
+    - 3947
+  label: 十一料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-2
+    span:
+    - body
+    - 4394
+    - 4394
+  label: 十二料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-3
+    span:
+    - body
+    - 4982
+    - 4982
+  label: 十三料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-4
+    span:
+    - body
+    - 5444
+    - 5444
+  label: 十四料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-5
+    span:
+    - body
+    - 8540
+    - 8540
+  label: 十五料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-6
+    span:
+    - body
+    - 9067
+    - 9067
+  label: 十六料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-7
+    span:
+    - body
+    - 9943
+    - 9943
+  label: 十七料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-8
+    span:
+    - body
+    - 11170
+    - 11170
+  label: 十八料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-9
+    span:
+    - body
+    - 12074
+    - 12074
+  label: 十九料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-10
+    span:
+    - body
+    - 17377
+    - 17377
+  label: 二十料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-11
+    span:
+    - body
+    - 17816
+    - 17816
+  label: 第六行解相資例
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-12
+    span:
+    - body
+    - 22101
+    - 22101
+  label: 第七喻疑顯正例
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-13
+    span:
+    - body
+    - 22111
+    - 22111
+  label: 初牒名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-14
+    span:
+    - body
+    - 23029
+    - 23029
+  label: 次辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-15
+    span:
+    - body
+    - 23029
+    - 23029
+  label: 初辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0139_X_005-mulu-16
+    span:
+    - body
+    - 23605
+    - 23605
+  label: 次辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 25459
+  label: 止觀義例纂要卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 三辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-2
+    span:
+    - body
+    - 178
+    - 178
+  label: 四辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-3
+    span:
+    - body
+    - 260
+    - 260
+  label: 初破不識教名之妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-4
+    span:
+    - body
+    - 941
+    - 941
+  label: 次破不識漸開之妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-5
+    span:
+    - body
+    - 1999
+    - 1999
+  label: 三破不識教體之妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-6
+    span:
+    - body
+    - 2345
+    - 2345
+  label: 四破抑挫法華之妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-7
+    span:
+    - body
+    - 4063
+    - 4063
+  label: 五破不識頓名之妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-8
+    span:
+    - body
+    - 4281
+    - 4281
+  label: 六破違拒本宗之妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-9
+    span:
+    - body
+    - 4336
+    - 4336
+  label: 七破違文背義之妨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-10
+    span:
+    - body
+    - 4773
+    - 4773
+  label: 五辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-11
+    span:
+    - body
+    - 4808
+    - 4808
+  label: 六辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-12
+    span:
+    - body
+    - 5906
+    - 5906
+  label: 七重辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-13
+    span:
+    - body
+    - 8053
+    - 8053
+  label: 八辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-14
+    span:
+    - body
+    - 8323
+    - 8323
+  label: 九重徵謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-15
+    span:
+    - body
+    - 9099
+    - 9099
+  label: 十辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-16
+    span:
+    - body
+    - 12285
+    - 12285
+  label: 十一辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-17
+    span:
+    - body
+    - 12563
+    - 12563
+  label: 十二辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-18
+    span:
+    - body
+    - 12735
+    - 12735
+  label: 十三辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-19
+    span:
+    - body
+    - 12811
+    - 12811
+  label: 十四辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-20
+    span:
+    - body
+    - 13103
+    - 13103
+  label: 十五辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-21
+    span:
+    - body
+    - 13853
+    - 13853
+  label: 十六辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-22
+    span:
+    - body
+    - 14744
+    - 14744
+  label: 十七辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-23
+    span:
+    - body
+    - 15094
+    - 15094
+  label: 十八辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-24
+    span:
+    - body
+    - 15958
+    - 15958
+  label: 十九辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-25
+    span:
+    - body
+    - 16511
+    - 16511
+  label: 二十重徵謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-26
+    span:
+    - body
+    - 16575
+    - 16575
+  label: 二十一辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-27
+    span:
+    - body
+    - 17373
+    - 17373
+  label: 二十二辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-28
+    span:
+    - body
+    - 17480
+    - 17480
+  label: 二十三辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-29
+    span:
+    - body
+    - 18195
+    - 18195
+  label: 二十四辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-30
+    span:
+    - body
+    - 18561
+    - 18561
+  label: 二十五以法華二妙重難謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-31
+    span:
+    - body
+    - 18913
+    - 18913
+  label: 二十六重徵謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-32
+    span:
+    - body
+    - 19058
+    - 19058
+  label: 二十七以觀例教重難謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-33
+    span:
+    - body
+    - 19256
+    - 19256
+  label: 二十八辨無教謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-34
+    span:
+    - body
+    - 19309
+    - 19309
+  label: 二十九辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-35
+    span:
+    - body
+    - 19334
+    - 19334
+  label: 三十重辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-36
+    span:
+    - body
+    - 19515
+    - 19515
+  label: 三十一辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-37
+    span:
+    - body
+    - 19700
+    - 19700
+  label: 三十二辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-38
+    span:
+    - body
+    - 20435
+    - 20435
+  label: 三十三辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-39
+    span:
+    - body
+    - 22281
+    - 22281
+  label: 三十四辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-40
+    span:
+    - body
+    - 22864
+    - 22864
+  label: 三十五辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-41
+    span:
+    - body
+    - 23232
+    - 23232
+  label: 三十六重辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-42
+    span:
+    - body
+    - 23287
+    - 23287
+  label: 三十七辨妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-43
+    span:
+    - body
+    - 23534
+    - 23534
+  label: 三十八辨數
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-44
+    span:
+    - body
+    - 23589
+    - 23589
+  label: 三十九辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-45
+    span:
+    - body
+    - 23658
+    - 23658
+  label: 四十辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-46
+    span:
+    - body
+    - 23973
+    - 23973
+  label: 四十一重辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-47
+    span:
+    - body
+    - 24033
+    - 24033
+  label: 四十二辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-48
+    span:
+    - body
+    - 24146
+    - 24146
+  label: 四十三辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-49
+    span:
+    - body
+    - 24494
+    - 24494
+  label: 四十四辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-50
+    span:
+    - body
+    - 24774
+    - 24774
+  label: 四十五辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-51
+    span:
+    - body
+    - 25287
+    - 25287
+  label: 四十六辨謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0139_X_006-mulu-52
+    span:
+    - body
+    - 25323
+    - 25323
+  label: 三總結
+  type: mulu
+  level: 1
+hash: sha256:3ea550247645dd5bd89f5a2eb261a174d23b6c5009c9088f27fe2f85d14bdd94

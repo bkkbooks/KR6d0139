@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0139/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 摩訶止觀義例纂要
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0921.xml
+    old_id: X56n0921
+hash: sha256:c142aa1b65d811e9a8817150a5bddf3fbce31a82829f64c2eb17bfdf35e7c5d0
