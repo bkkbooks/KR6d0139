@@ -22,19 +22,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0139_000.yaml, hash: 'sha256:c142aa1b65d811e9a8817150a5bddf3fbce31a82829f64c2eb17bfdf35e7c5d0'}
-  - {seq: 1, filename: KR6d0139_001.yaml, hash: 'sha256:db5daaf0103ccdb098496efc64c0f2687477d330876d2d3c29bcc2488f10989d'}
-  - {seq: 2, filename: KR6d0139_002.yaml, hash: 'sha256:b991571926cb78a9db717645c92e04dc190c7bfb968ef45fbc9c3bc1185d4723'}
-  - {seq: 3, filename: KR6d0139_003.yaml, hash: 'sha256:e4921c2c842cb09f026c6c80ab897cce9db3eb19494603e46e7b850bd8315e5b'}
-  - {seq: 4, filename: KR6d0139_004.yaml, hash: 'sha256:51a7214b8ce354ab4ccdacb3846e8819a05d4364aedb6cbf68098fb22f756b22'}
-  - {seq: 5, filename: KR6d0139_005.yaml, hash: 'sha256:25c3a433a5a9f11bd0dd90acf63a92df21e009bd3a5a6cedf33b43444f8a0dde'}
-  - {seq: 6, filename: KR6d0139_006.yaml, hash: 'sha256:0b7b67d84cbb5baef151e5bcf5af1da866ef6acaf4db55e911a644dacb11ab1a'}
+  - {seq: 1, filename: KR6d0139_001.yaml, hash: 'sha256:fc02239934f63be6172e1cd6357deaf02af88babb1f526508beadf3c6be98a99'}
+  - {seq: 2, filename: KR6d0139_002.yaml, hash: 'sha256:038549720a5faba3ac8c571167631e3636d4088a8d1a2095a440d14fad90e833'}
+  - {seq: 3, filename: KR6d0139_003.yaml, hash: 'sha256:ca07bdef606cfa8357ac2b310a446f872819e44fc7618bea4a302e82d1060f36'}
+  - {seq: 4, filename: KR6d0139_004.yaml, hash: 'sha256:bee9559c747381471db211b5b6893755f03b887951bcf1eb19a90f5d96ee3472'}
+  - {seq: 5, filename: KR6d0139_005.yaml, hash: 'sha256:51b0fbd98b827e676c0fcd1f85a9a152a7a56d3eddf231fde177889b9b4f41ed'}
+  - {seq: 6, filename: KR6d0139_006.yaml, hash: 'sha256:d6b1e206f796ef1a746a1af7649511b0de1477076a945377d7ff82017a9f3da6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0139_001.markers.yaml, hash: 'sha256:3bcf6eb1683f12fe3f37151eb60cf88a90749c1d3be070f3ca057ae63503caa3'}
-  - {seq: 2, role: markers, filename: assets/KR6d0139_002.markers.yaml, hash: 'sha256:09c1286feb10a4f735008d861941594534fa103a96766f54d3c0ad93be8e1495'}
-  - {seq: 3, role: markers, filename: assets/KR6d0139_003.markers.yaml, hash: 'sha256:40a39634864e8ab5fb6354852c525586cda4bbddee86ec960b8776edc0724a1f'}
-  - {seq: 4, role: markers, filename: assets/KR6d0139_004.markers.yaml, hash: 'sha256:ce2131447007ecb54c1a872be7d1ab0527b7fbff257a45b94cd3c54da71a8dcd'}
-  - {seq: 5, role: markers, filename: assets/KR6d0139_005.markers.yaml, hash: 'sha256:89111564aaab94258c39a45648a38456a71409c29f7d160b5ccf47ccec7162d7'}
-  - {seq: 6, role: markers, filename: assets/KR6d0139_006.markers.yaml, hash: 'sha256:68e5827babb58830f7d318165e2fad7a49d960ff32f334378b5c1c0232efb7d4'}
+  - {seq: 0, role: markers, filename: assets/KR6d0139_000.markers.yaml, hash: 'sha256:03fbcd408310ffee94381dfe5a387901830473a928729a6263a81870247d8619'}
+  - {seq: 1, role: markers, filename: assets/KR6d0139_001.markers.yaml, hash: 'sha256:70e9dae71ae4ac97a3ff4b4a5a1cb24f04ed5d6063046e520daaa82282799d30'}
+  - {seq: 2, role: markers, filename: assets/KR6d0139_002.markers.yaml, hash: 'sha256:1f5659cbcbbd73b1daa53e8a60f32b0f757a8a878abdb1e7fd2463b69c958724'}
+  - {seq: 3, role: markers, filename: assets/KR6d0139_003.markers.yaml, hash: 'sha256:4f2b8df74fca88910e24d92b54552b002512631137bfd2168a2678d8440526b2'}
+  - {seq: 4, role: markers, filename: assets/KR6d0139_004.markers.yaml, hash: 'sha256:78ab0be7ae0b4e52c4118a014c1dc7c62719c1f0f2a76e999969b1a26c9e8e13'}
+  - {seq: 5, role: markers, filename: assets/KR6d0139_005.markers.yaml, hash: 'sha256:97e660e2c7d4432d68450a36d2252f2cadba471b399c61c88e5aa6062f5617f6'}
+  - {seq: 6, role: markers, filename: assets/KR6d0139_006.markers.yaml, hash: 'sha256:22570e1ce3b263312c514494191c5df5e86d9317df97464534bbe4ef38442642'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1476,7 +1477,4 @@ table_of_contents:
   label: 三總結
   type: mulu
   level: 1
-hash: sha256:29a9d6bf2d8338b58ef302226eea1c993b3c3cb1b9aa58d8dd1ce5999fbb7557
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a6f0b6ab7677961e02121b1ec414052b6444225c70869dc9c09bb4bb569a38b6
